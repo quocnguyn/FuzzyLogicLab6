@@ -135,7 +135,10 @@ graph TD
 ## 4. Kết Quả Thí Nghiệm
 
 ### 4.1. Video kết quả quan sát được
-
+#### Phần 1
+https://github.com/user-attachments/assets/6ea4b173-b65e-4954-b56a-c3d6e5e6cd6e
+#### Phần 2
+https://github.com/user-attachments/assets/092e2927-0b09-49ff-94e4-ff1712272c68
 
 ### 4.2. Phân Tích Kết Quả
 **Ưu điểm quan sát được:**
