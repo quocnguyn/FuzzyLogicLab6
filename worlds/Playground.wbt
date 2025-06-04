@@ -1,0 +1,157 @@
+#VRML_SIM R2025a utf8
+
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2025a/projects/objects/backgrounds/protos/TexturedBackground.proto"
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2025a/projects/objects/backgrounds/protos/TexturedBackgroundLight.proto"
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2025a/projects/objects/floors/protos/RectangleArena.proto"
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2025a/projects/objects/apartment_structure/protos/Wall.proto"
+EXTERNPROTO "../protos/E-puck.proto"
+
+WorldInfo {
+}
+Viewpoint {
+  orientation 0.5811033535247782 -0.578461880434672 -0.5724515223197855 4.17749745736993
+  position 1.2237199444386997 0.013578441302007915 8.415906611466058
+}
+TexturedBackground {
+}
+TexturedBackgroundLight {
+}
+RectangleArena {
+  translation 1.31 0 0
+  floorSize 4 4
+}
+Wall {
+  translation 3.21003 1.95239 9.76996e-15
+  rotation 0 0 1 0.929388
+  name "wall(20)"
+  size 0.03 0.5 0.1
+}
+Wall {
+  translation 1.85088 -0.25421 0
+  rotation 0 0 1 -2.3561953071795863
+  name "wall(17)"
+  size 0.03 0.5 0.1
+}
+Wall {
+  translation 2.79291 -1.50267 0
+  rotation 0 0 1 2.35619
+  name "wall(16)"
+  size 0.03 0.6 0.1
+}
+Wall {
+  translation 3.07817 0.519022 0
+  rotation 0 0 1 2.23185
+  name "wall(15)"
+  size 0.03 0.6 0.1
+}
+Wall {
+  translation 2.32565 1.25576 5.68434e-14
+  rotation 0 0 -1 -1.8325953071795862
+  name "wall(14)"
+  size 0.03 1 0.1
+}
+Wall {
+  translation 1.8686 -1.7824 0
+  rotation 0 0 -1 2.0944
+  name "wall(13)"
+  size 0.03 1 0.1
+}
+Wall {
+  translation 2.67716 -0.932649 0
+  rotation 0 0 1 1.32863
+  name "wall(12)"
+  size 0.03 0.6 0.1
+}
+Wall {
+  translation -0.476912 1.83022 7.10543e-15
+  rotation 0 0 -1 1.0472
+  name "wall(10)"
+  size 0.03 0.7 0.1
+}
+Wall {
+  translation 0.75 -0.3 0
+  name "wall(18)"
+  size 0.03 2 0.1
+}
+Wall {
+  translation 0.592803 1.62931 0
+  rotation 0 0 -1 1.03411
+  name "wall(9)"
+  size 0.03 0.7 0.1
+}
+Wall {
+  translation 1.45 -0.5 0
+  name "wall(8)"
+  size 0.03 3 0.1
+}
+Wall {
+  translation 2.10847 0.243459 4.17444e-14
+  rotation 0 0 1 0.261799
+  name "wall(11)"
+  size 0.03 2.75 0.1
+}
+Wall {
+  translation 0.338168 -1.13469 0
+  rotation 0 0 1 1.165
+  name "wall(7)"
+  size 0.03 1.5 0.1
+}
+Wall {
+  translation 1.10292 1.73506 5.86198e-14
+  rotation 0 0 -1 1.8325953071795864
+  name "wall(6)"
+  size 0.03 0.5 0.1
+}
+Wall {
+  translation 0.562407 1.01748 0
+  rotation 0 0 -1 2.618
+  name "wall(4)"
+  size 0.03 1 0.1
+}
+Wall {
+  translation -0.15 -0.64 0
+  name "wall(1)"
+  size 0.03 0.6 0.1
+}
+Wall {
+  translation -0.283688 0.665773 0
+  rotation 0 0 1 -1.8325953071795862
+  name "wall(5)"
+  size 0.03 0.3 0.1
+}
+Wall {
+  translation 0.75 -0.3 0
+  name "wall(2)"
+  size 0.03 2 0.1
+}
+Wall {
+  translation -0.542846 -1.92677 8.88178e-15
+  rotation 0 0 1 0.929388
+  name "wall(3)"
+  size 0.03 0.5 0.1
+}
+Wall {
+  translation 3.1755 -1.82675 7.99356e-15
+  rotation 0 0 1 -0.9032053071795865
+  name "wall(19)"
+  size 0.03 0.5 0.1
+}
+Wall {
+  translation -0.15 0.14 0
+  size 0.03 1 0.1
+}
+E-puck {
+  hidden position_0_0 77429.30864964017
+  hidden position_0_1 76221.03253757203
+  hidden linearVelocity_0 0.003100339941730691 0.06600434165679661 -9.485768591425433e-09
+  hidden angularVelocity_0 0.0086731966146146 -0.00040739509733967946 -2.2770235102253156e-08
+  hidden rotation_1 0 -1 0 4.667076041057191
+  hidden linearVelocity_1 0.0030983021168642763 0.0659609749903222 -1.6296937577405952e-08
+  hidden angularVelocity_1 -3.2980487361903097 0.15491514699219183 5.915024621821962e-08
+  hidden rotation_2 0 1 0 5.994761483643684
+  hidden linearVelocity_2 0.003098302101541021 0.06596097474633374 -1.6288471638120696e-08
+  hidden angularVelocity_2 -3.2980487401054805 0.1549150634326069 -9.907167329542421e-08
+  translation 1.6509263507448164 1.3183741244090892 -6.396243973645806e-05
+  rotation 8.644063105624253e-06 -9.060386130003065e-06 -0.9999999999215947 -1.5238590803856136
+  controller "my_controller"
+}
